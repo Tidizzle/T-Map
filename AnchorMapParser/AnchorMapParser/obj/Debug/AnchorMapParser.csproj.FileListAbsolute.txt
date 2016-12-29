@@ -1,0 +1,5 @@
+C:\SharpEngine\Map Parse\AnchorMapParser\AnchorMapParser\bin\Debug\AnchorMapParser.exe
+C:\SharpEngine\Map Parse\AnchorMapParser\AnchorMapParser\bin\Debug\AnchorMapParser.pdb
+C:\SharpEngine\Map Parse\AnchorMapParser\AnchorMapParser\obj\Debug\AnchorMapParser.csprojResolveAssemblyReference.cache
+C:\SharpEngine\Map Parse\AnchorMapParser\AnchorMapParser\obj\Debug\AnchorMapParser.exe
+C:\SharpEngine\Map Parse\AnchorMapParser\AnchorMapParser\obj\Debug\AnchorMapParser.pdb
