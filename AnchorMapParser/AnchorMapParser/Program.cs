@@ -45,31 +45,43 @@ namespace AnchorMapParser
 					var sample = map.GetPixel(i * squarewidth, j * squareheight);
 					string name = $"{sample.R},{sample.G},{sample.B}";
 
-					if (sample.R == 238 && sample.G == 195 && sample.B == 154)
+					if (sample.R == 238 && sample.G == 195 && sample.B == 154) //sand
 					{
 						mapData.Data[i, j] = 0;
 					}
-					else if (sample.R == 91 && sample.G == 110 && sample.B == 225)
+					else if (sample.R == 241 && sample.G == 188 && sample.B == 139) //wet sand
 					{
 						mapData.Data[i, j] = 1;
 					}
-					else if (sample.R == 75 && sample.G == 105 && sample.B == 47)
+					else if (sample.R == 91 && sample.G == 110 && sample.B == 225) //Shallow water
 					{
 						mapData.Data[i, j] = 2;
 					}
-					else if (sample.R == 255 && sample.G == 255 && sample.B == 255)
+					else if (sample.R == 91 && sample.G == 100 && sample.B == 234) //deep water
 					{
 						mapData.Data[i, j] = 3;
+					}
+					else if (sample.R == 75 && sample.G == 105 && sample.B == 47) //Grass
+					{
+						mapData.Data[i, j] = 4;
+					}
+					else if (sample.R == 255 && sample.G == 255 && sample.B == 255) //White
+					{
+						mapData.Data[i, j] = 5;
 					}
 					else
 					{
 						mapData.Data[i, j] = 999;
 					}
 
-					if (j >= map.Height || j * squareheight >= map.Height)
+					int tester = j;
+
+					if (tester++  * squareheight  >= map.Height )
 					{
-						j = 0;
+						j = map.Height + squareheight;
 					}
+
+
 				}
 			}
 			Thread.Sleep(2000);

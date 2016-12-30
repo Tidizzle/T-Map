@@ -18,12 +18,19 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AnchorMapParser/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="928">
-              <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+            <state relative-caret-position="399">
+              <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding>
-                <marker date="1483052419211" expanded="true" signature="6:115" ph="..." />
-                <marker date="1483052419211" expanded="true" signature="1731:1758" ph="{...}" />
-                <marker date="1483052419211" expanded="true" signature="2352:2384" ph="{...}" />
+                <marker date="1483068047566" expanded="true" signature="6:115" ph="..." />
+                <marker date="1483068047566" expanded="true" signature="142:2716" ph="{...}" />
+                <marker date="1483068047566" expanded="true" signature="168:2714" ph="{...}" />
+                <marker date="1483068047566" expanded="true" signature="212:2652" ph="{...}" />
+                <marker date="1483068047566" expanded="true" signature="979:2096" ph="{...}" />
+                <marker date="1483068047566" expanded="true" signature="1040:2091" ph="{...}" />
+                <marker date="1483068047566" expanded="true" signature="1365:1409" ph="{...}" />
+                <marker date="1483068047566" expanded="true" signature="1618:1662" ph="{...}" />
+                <marker date="1483068047566" expanded="true" signature="2032:2083" ph="{...}" />
+                <marker date="1483068047566" expanded="true" signature="2679:2711" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,12 +40,13 @@
         <entry file="file://$PROJECT_DIR$/AnchorMapParser/MapData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="416">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
-                <marker date="1483051550770" expanded="true" signature="25:445" ph="{...}" />
-                <marker date="1483051550770" expanded="true" signature="49:443" ph="{...}" />
-                <marker date="1483051550770" expanded="true" signature="140:201" ph="{...}" />
-                <marker date="1483051550770" expanded="true" signature="222:285" ph="{...}" />
+                <marker date="1483059377859" expanded="true" signature="25:445" ph="{...}" />
+                <marker date="1483059377859" expanded="true" signature="49:443" ph="{...}" />
+                <marker date="1483059377859" expanded="true" signature="140:201" ph="{...}" />
+                <marker date="1483059377859" expanded="true" signature="222:285" ph="{...}" />
+                <marker date="1483059377859" expanded="true" signature="346:440" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -56,9 +64,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="width" value="840" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -137,12 +146,14 @@
       <option name="presentableId" value="Default" />
       <updated>1482982519041</updated>
       <workItem from="1482982520250" duration="1026000" />
-      <workItem from="1482983630999" duration="18703000" />
+      <workItem from="1482983630999" duration="19303000" />
+      <workItem from="1483059377540" duration="1420000" />
+      <workItem from="1483066287445" duration="2812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19729000" />
+    <option name="totallyTimeSpent" value="24561000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -154,7 +165,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="840" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -166,11 +177,11 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50970876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13452381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41235954" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44868997" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -185,7 +196,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -195,42 +206,116 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1483052419211" expanded="true" signature="6:115" ph="..." />
-            <marker date="1483052419211" expanded="true" signature="1731:1758" ph="{...}" />
-            <marker date="1483052419211" expanded="true" signature="2352:2384" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="6:115" ph="..." />
+            <marker date="1483068047566" expanded="true" signature="142:2716" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="168:2714" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="212:2652" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="979:2096" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1040:2091" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1365:1409" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1618:1662" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="2032:2083" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="2679:2711" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AnchorMapParser/Tile.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AnchorMapParser/MapData.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <marker date="1483051550770" expanded="true" signature="25:445" ph="{...}" />
-            <marker date="1483051550770" expanded="true" signature="49:443" ph="{...}" />
-            <marker date="1483051550770" expanded="true" signature="140:201" ph="{...}" />
-            <marker date="1483051550770" expanded="true" signature="222:285" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="25:445" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="49:443" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="140:201" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="222:285" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="346:440" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AnchorMapParser/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1483052419211" expanded="true" signature="6:115" ph="..." />
-            <marker date="1483052419211" expanded="true" signature="1731:1758" ph="{...}" />
-            <marker date="1483052419211" expanded="true" signature="2352:2384" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="6:115" ph="..." />
+            <marker date="1483068047566" expanded="true" signature="142:2716" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="168:2714" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="212:2652" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="979:2096" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1040:2091" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1365:1409" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1618:1662" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="2032:2083" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="2679:2711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnchorMapParser/MapData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <marker date="1483059377859" expanded="true" signature="25:445" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="49:443" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="140:201" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="222:285" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="346:440" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnchorMapParser/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1483068047566" expanded="true" signature="6:115" ph="..." />
+            <marker date="1483068047566" expanded="true" signature="142:2716" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="168:2714" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="212:2652" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="979:2096" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1040:2091" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1365:1409" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1618:1662" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="2032:2083" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="2679:2711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnchorMapParser/Tile.cs" />
+    <entry file="file://$PROJECT_DIR$/AnchorMapParser/MapData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <marker date="1483059377859" expanded="true" signature="25:445" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="49:443" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="140:201" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="222:285" ph="{...}" />
+            <marker date="1483059377859" expanded="true" signature="346:440" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnchorMapParser/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding>
+            <marker date="1483068047566" expanded="true" signature="6:115" ph="..." />
+            <marker date="1483068047566" expanded="true" signature="142:2716" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="168:2714" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="212:2652" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="979:2096" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1040:2091" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1365:1409" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="1618:1662" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="2032:2083" ph="{...}" />
+            <marker date="1483068047566" expanded="true" signature="2679:2711" ph="{...}" />
           </folding>
         </state>
       </provider>
